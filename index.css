@@ -25,7 +25,7 @@ h1{
 }
 
 .row > div{
-	flex: 1;
+	flex: 1;  //레이아웃 배치전용기능
 	background-color: #dedede;
 	margin-right: 5px;
 }
@@ -40,7 +40,7 @@ h1{
 }
 #buttons>button{
 	font-size: 24px;
-	padding: 8px;
+	padding: 8px; //안쪽 여백
 }
 #buttons>:first-child{
 	margin-right: 6px;
